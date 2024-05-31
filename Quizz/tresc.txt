@@ -1,0 +1,30 @@
+Typ zmiennych o nazwie force_power przechowuje:
+A Moc Jedi
+B Imiê Sitha
+C Mocy zmiennoprzecinkowe
+D Pojedyncze miecze œwietlne
+c
+Wstrzymanie wykonania programu na czas 2 sekund uzyskasz instrukcj¹:
+A Use_The_Force(2000)
+B Stop_Light_Saber(2000)
+C Delay_Hyperdrive(2000)
+D Sleep_Droid(2000)
+d
+Która deklaracja jest zapisana poprawnie?
+A int lightsaber;
+B integer lightsaber;
+C lightsaber:integer;
+D lightsaber=integer;
+a
+Z jakiego przedzia³u zostanie wylosowana liczba: rand()%10+2
+A 0..9 (liczba szturmowców)
+B 2..9 (liczba statków w hangarze)
+C 2..11 (liczba planet w uk³adzie)
+D 0..11 (liczba misji Jedi)
+c
+Ile razy wykona siê pêtla: for (int i=4; i>=-2; i--)
+A Ani razu (program zatrzymany przez Imperium)
+B Nieskoñczenie wiele razy (pêtla czasu w Dagobah)
+C 6 (liczba prób Jedi)
+D 7 (liczba cz³onków Rady Jedi)
+d
